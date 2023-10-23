@@ -1,0 +1,20 @@
+ 
+Basics of pointer :
+
+What is pointer?
+=>pointers are variable that store the address of other variables.
+ That means is stores other data-types address.
+
+ &==> this is known as adress ooperator(that holds the address)
+ *==> This is known as point to the variable of memory.
+ Example-1:
+ int a=4;
+ int *b=&a;
+ [It will print a hexadecimal address of that a also the same of b.]
+ 
+so from that we can confirm that (&) is the address prining operation.
+
+and (*)target point variable operator.
+
+
+
