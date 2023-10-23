@@ -1,0 +1,11 @@
+To store data permanently.
+
+To read and write in file we need <fstream> library 
+
+[ofstream data type}-] used to create and write information to files
+
+[ifstream] data type used to read information from files.
+
+Append:
+
+after declaring the data type of a file (,ios::out|ios::app);

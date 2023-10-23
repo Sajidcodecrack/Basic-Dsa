@@ -1,0 +1,15 @@
+Name of Employ : raisa
+Age of Emplpy : 16
+Id of Employ : 442
+Name of Employ : manaf
+Age  of  Emplpy : 2
+Id  of  Employ : 112
+Name of Employ : umar
+Age  of  Emplpy : 2
+Id  of  Employ : 321
+Name of Employ : daeem abrar
+Age  of  Emplpy : 18
+Id  of  Employ : 902
+Name of Employ : mia
+Age  of  Emplpy : 45
+Id  of  Employ : 758
